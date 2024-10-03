@@ -4,13 +4,13 @@ function changeImageWidth(){
     const img3 = document.getElementById("img3");
 
     if(window.innerWidth <= 650){
-        img1.src = "/images/blackbrianDesktop.png";
-        img2.src = "/images/granempDesktop.png";
-        img3.src = "/images/malibuDesktop.png";
+        img1.src = "/portfolio/images/blackbrianDesktop.png";
+        img2.src = "/portfolio/images/granempDesktop.png";
+        img3.src = "/portfolio/images/malibuDesktop.png";
     }else{
-        img1.src = "/images/blackbrian.png";
-        img2.src = "/images/granemp.png";
-        img3.src = "/images/malibu.png"
+        img1.src = "/portfolio/images/blackbrian.png";
+        img2.src = "/portfolio/images/granemp.png";
+        img3.src = "/portfolio/images/malibu.png"
     }
 }
 
