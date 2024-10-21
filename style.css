@@ -549,8 +549,8 @@ a:hover {
         flex-direction: column;
         align-items: center;
         height: 75%;
-        margin-top: 18vh;
-        margin-bottom: 10vh;
+        margin-top: 18dvh;
+        margin-bottom: 10dvh;
         overflow: hidden;
     }
 
@@ -562,8 +562,8 @@ a:hover {
     }
 
     .gridImg {
-        max-height: 30vh;
-        max-width: 60vh;
+        max-height: 30dvh;
+        max-width: 60dvh;
     }
 
     .gridImg>img {
@@ -586,7 +586,7 @@ a:hover {
         background-color: rgb(255, 255, 255);
         border: 0.5px solid rgba(0, 0, 0, 0.363);
         height: 60vh;
-        width: 37vh;
+        width: 37dvh;
     }
 
     #sec4 h1 {
@@ -632,7 +632,7 @@ a:hover {
     }
 
     .info {
-        margin-bottom: 2vh;
+        margin-bottom: 2dvh;
     }
 
     #slideSkill>div>div {
