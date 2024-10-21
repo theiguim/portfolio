@@ -6,7 +6,7 @@ function changeImageWidth(){
     if(window.innerWidth <= 650){
         img1.src = "./images/blackbrianDesktop.png";
         img2.src = "./images/granempDesktop.png";
-        img3.src = "/portfolio/images/malibuDesktop.png";
+        img3.src = "./images/malibuDesktop.png";
     }else{
         img1.src = "./images/blackbrian.png";
         img2.src = "./images/granemp.png";
